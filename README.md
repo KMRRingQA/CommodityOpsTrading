@@ -15,4 +15,6 @@ specification mixing is just as applicable to some other industries, such as ore
 
 Given the necessary market information (list of trading hubs with associated futures markets, which in reality are often too opaque, transport costs, availability, and durations, and storage availability and durations), this algorithm is able to identify attractive trades efficiently.
 
+
+below: the output of a calculation, identifying the most profitable trade with the provided market conditions (transporting commodity from London & Sydney to Hong Kong, where it can be mixed and sold for fully hedged, purely operative profit)
 ![image](https://user-images.githubusercontent.com/62283469/192409414-4518c785-dffc-4588-b481-b8e0f4536866.png)
